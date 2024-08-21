@@ -1,7 +1,7 @@
 ---
-title: 'GERAÇÃO DISTRIBUÍDA NO BRASIL E </br> SEU EFEITO MULTIPLICADOR'
-author: 'Prof. Dr. Victor Valerio'
-institute: 'UNIVERSIDADE FEDERAL DE ITAJUBÁ'
+title: 'IMPACTO ECONÔMICO DA <br>GERAÇÃO DISTRIBUÍDA EM MG'
+author: 'Rede de Análise em Energia Renovável e Desenvolvimento Econômico'
+institute: '(RAERDE)'
 date: 'Última Atualização: `r format(Sys.Date(),"%d-%m-%Y")`'
 output:
   xaringan::moon_reader:
