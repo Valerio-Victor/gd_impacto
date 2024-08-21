@@ -1094,8 +1094,7 @@ knitr::include_graphics('tabela.png')
 
 ---
 <div style="text-align: justify">
-# IMPACTO ECONÔMICO DA GERAÇÃO DISTRIBUÍDA EM MINAS GERAIS
-----
+## IMPACTO ECONÔMICO DA GERAÇÃO DISTRIBUÍDA EM MINAS GERAIS
 
 ```{r, results = 'asis', echo = F, warning = F, message = F, error = F, fig.align ='center', out.width = '70%'}
 knitr::include_graphics('Slide15.png')
@@ -1104,8 +1103,7 @@ knitr::include_graphics('Slide15.png')
 
 ---
 <div style="text-align: justify">
-# IMPACTO ECONÔMICO DA GERAÇÃO DISTRIBUÍDA EM MINAS GERAIS
-----
+## IMPACTO ECONÔMICO DA GERAÇÃO DISTRIBUÍDA EM MINAS GERAIS
 
 ```{r, results = 'asis', echo = F, warning = F, message = F, error = F, fig.align ='center', out.width = '70%'}
 knitr::include_graphics('Slide16.png')
@@ -1113,8 +1111,7 @@ knitr::include_graphics('Slide16.png')
 
 ---
 <div style="text-align: justify">
-# IMPACTO ECONÔMICO DA GERAÇÃO DISTRIBUÍDA EM MINAS GERAIS
-----
+## IMPACTO ECONÔMICO DA GERAÇÃO DISTRIBUÍDA EM MINAS GERAIS
 
 ```{r, results = 'asis', echo = F, warning = F, message = F, error = F, fig.align ='center', out.width = '70%'}
 knitr::include_graphics('Slide17.png')
